@@ -28,5 +28,5 @@ Bugun Git buyruqlari bilan ishlashni mashq qildim.
 
 \## 5-kun
 
-Bugun kundalik loyihamni yakunladim..
+Bugun kundalik loyihamni yakunladim...
 
