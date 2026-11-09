@@ -30,5 +30,3 @@ Bugun Git buyruqlari bilan ishlashni mashq qildim.
 
 Bugun kundalik loyihamni yakunladim.
 
-
-
