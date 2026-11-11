@@ -16,7 +16,7 @@ Bu loyiha mening 5 kunlik o‘quv kundaligim.
 
 
 
-\## Muallif
+## Muallif
 
 Mohinur
 
