@@ -1,4 +1,4 @@
-\# Mening kundaligim
+# Mening kundaligim
 
 
 
@@ -6,13 +6,13 @@ Bu loyiha mening 5 kunlik o‘quv kundaligim.
 
 
 
-\## Loyihada nimalar bor?
+## Loyihada nimalar bor?
 
-\- 5 kunlik yozuvlar
+- 5 kunlik yozuvlar
 
-\- Git commit tarixi
+- Git commit tarixi
 
-\- Markdown fayli
+- Markdown fayli
 
 
 
