@@ -2,7 +2,7 @@
 
 
 
-Bugun Git orqali yangi loyihalar yaratdim.
+Bugun Git orqali yangi loyihalar yaratdim..
 
 
 
