@@ -1,7 +1,9 @@
 \# Mening kundaligim
 
 
-Bugun Git va GitHub mavzusini o'rgandim.
+
+Bugun Git orqali yangi loyihalar yaratdim.
+
 
 
 \## 1-kun
