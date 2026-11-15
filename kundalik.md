@@ -1,6 +1,8 @@
 \# Mening kundaligim
 
 
+Bugun Git va GitHub mavzusini o'rgandim.
+
 
 \## 1-kun
 
